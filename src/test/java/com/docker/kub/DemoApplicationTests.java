@@ -1,4 +1,4 @@
-package com.docker.demo;
+package com.docker.kub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
